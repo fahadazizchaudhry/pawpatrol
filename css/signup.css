@@ -1,0 +1,55 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:50px;
+    }
+  }
+
+  
+.mx-2:hover {
+    color: yellow;
+   
+}
+
+.mx-2  {
+    border-radius: 5px;
+    border: 1px;
+}
+
+.dropdown-menu{
+ margin-top: -20px;
+ background-color: rgb(33, 33, 33);
+ color: white;
+
+}
+
+                  
+.dropdown-item{
+    color: white;
+    display: inline;
+ 
+}
+
+.dropdown-item:hover{
+    color:yellow;
+    background-color: rgb(33, 33, 33);
+}
+
+.signupbutton:hover{
+    color: yellow;
+    background-color: rgb(241, 235, 235);
+
+}
+
+#containersign {
+    background-image: url(images/Untitled\ design.png) ; filter: blur(0px);
+    height:500px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hoe{
+    background-color:red; color:white; border-color: black;
+}
+.ho{
+    
+}

@@ -1,0 +1,52 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:50px;
+    }
+  }
+
+.mx-2:hover {
+    color: yellow;
+   
+}
+
+.mx-2  {
+    border-radius: 5px;
+    border: 1px;
+}
+
+.dropdown-menu{
+ margin-top: -20px;
+ background-color: rgb(33, 33, 33);
+ color: white;
+
+}
+
+                  
+.dropdown-item{
+    color: white;
+    display: inline;
+ 
+}
+
+.dropdown-item:hover{
+    color:yellow;
+    background-color: rgb(33, 33, 33);
+
+}
+.star-container {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 50px;
+}
+
+.fas.fa-star {
+    color: goldenrod;
+    margin-right: 10px;
+}
+.card {
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0,0.5);}

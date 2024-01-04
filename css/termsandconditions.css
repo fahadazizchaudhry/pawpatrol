@@ -1,0 +1,54 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:50px;
+    }
+  }
+
+.mx-2:hover {
+    color: yellow;
+   
+}
+
+.mx-2  {
+    border-radius: 5px;
+    border: 1px;
+}
+
+.dropdown-menu{
+ margin-top: -20px;
+ background-color: rgb(33, 33, 33);
+ color: white;
+
+}
+
+                  
+.dropdown-item{
+    color: white;
+    display: inline;
+ 
+}
+
+.dropdown-item:hover{
+    color:yellow;
+    background-color: rgb(33, 33, 33);
+
+}
+
+
+@keyframes hover-animation {
+    0% { font-weight: normal; }
+    50% { font-weight: bold; }
+    100% { font-weight: normal; }
+}
+
+.aho {
+    font-weight: normal;
+    color: black;
+ transform: scale(1);
+ transition: color 0.5s, transform 0.5s;
+}
+
+.aho:hover {
+    color: black;
+    transform: scale(1.1);
+}

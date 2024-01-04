@@ -1,0 +1,104 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:50px;
+    }
+  }
+
+.mx-2:hover {
+    color: yellow;
+   
+}
+
+.mx-2  {
+    border-radius: 5px;
+    border: 1px;
+}
+
+.dropdown-menu{
+ margin-top: -20px;
+ background-color: rgb(33, 33, 33);
+ color: white;
+
+}
+
+                  
+.dropdown-item{
+    color: white;
+    display: inline;
+ 
+}
+
+.dropdown-item:hover{
+    color:yellow;
+    background-color: rgb(33, 33, 33);
+
+}
+.huh{
+    background-color: black;
+    color:white ;
+    border-color: black;
+    font-family: lilita one;
+    
+}
+.huh:hover{
+    background-color: black;
+    color:rgb(228, 177, 36) ;
+    border-color: black;
+}
+.hm{
+    border: 1px solid #ccc;
+ transition: box-shadow 0.3s ease-in-out;
+}
+.hm:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+}
+.card {
+    position: relative;
+    width: 350px;
+    height: 450px;
+    overflow: hidden;
+   }
+   
+   .card:hover .card-text {
+    transform: translateY(0%);
+    opacity: 1;
+   }
+   
+   .card-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateY(100%);
+    opacity: 0;
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+   }
+   .gm{
+padding-left: 10px; padding-right: 10px;
+   }
+   .card {
+    position: relative;
+    width: 290px;
+    height: 190px;
+    overflow: hidden;
+    transition: height 0.5s ease-out;
+   }
+   
+   .card:hover {
+    height: 450px;
+   }
+   
+   .card-text {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translateY(100%);
+    opacity: 0;
+    transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+   }
+   
+   .card:hover .card-text {
+    transform: translateY(0%);
+    opacity: 1;
+   }
+
+   

@@ -1,0 +1,683 @@
+:root{
+    --bs-body-font-family : 'Gabarito', sans-serif;
+  
+}
+
+
+  #background {
+    background-image: url(../../assets/bg.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+  
+    
+    
+  }
+
+  .container{
+    color: aliceblue;
+    text-align: center;
+    padding: 20%;
+    
+  }
+  .container2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 10%;
+    
+  }
+  button{
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 12px;
+    width: 111px;
+    color: #000000;
+    text-align: center;
+    border: 2px  #cccccc;
+    border-radius: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 5px;
+    
+  }
+  button:hover {
+    background-color: rgb(203, 203, 203);
+  }
+  
+ 
+  #background2{
+    background-image: url(../../assets/bg2.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+    
+  }
+
+  .container3{
+    color: aliceblue;
+    text-align: left;
+    padding: 15%;
+  }   
+
+  button2{
+    
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 12px;
+    width: 120px;
+    color: #000000;
+    text-align: center;
+    border: 2px  #cccccc;
+    border-radius: 10px;
+    font-size: 13px;
+    cursor: pointer;
+    margin: 5px;
+    
+  }
+  button2:hover {
+    background-color: rgb(203, 203, 203);
+  }
+  
+
+  #background3 {
+    background-image: url(../../assets/aboutbg1.webp);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  
+    
+    
+  }
+  .container4{
+    color: aliceblue;
+    text-align: left;
+    padding: 15%;
+
+    
+  }
+  
+  .container5{
+    background-color: black;
+    color: aliceblue;
+    text-align: left;
+    padding: 10%;
+    font-size: smaller;
+  }
+
+  #background4 {
+    background-image: url(../../assets/bg5.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+
+  .mb-3 {
+    padding: 5%;
+    padding-bottom: 0%;
+   
+    text-align: center;
+    
+
+  }
+
+  button3{
+    
+    display: inline-block;
+    background-color: #000000;
+    padding: 12px;
+    width: 120px;
+    color: #ffffff;
+    text-align: center;
+    border: 2px  #cccccc;
+    border-radius: 10px;
+    font-size: 13px;
+    cursor: pointer;
+    margin: 5px;
+    
+    
+  }
+  button3:hover {
+    background-color: rgb(66, 66, 66);
+  }
+
+  buttonnav1{
+    
+    display: inline-block;
+    background-color: #000000;
+    padding: 10px;
+    width: 115px;
+    color: #ffffff;
+    text-align: center;
+    border: 2px  #cccccc;
+    border-radius: 10px;
+    font-size: 13px;
+    cursor: pointer;
+    
+    
+    
+  }
+  buttonnav1:hover {
+    background-color: rgb(66, 66, 66);
+  }
+
+  .mb-5 {
+    padding: 5%;
+    padding-bottom: 0%;
+    border: #cccccc;
+    border-radius: 10px;
+   
+    text-align: center;
+    
+ 
+  }
+
+  buttonsubmit {
+  padding-left: 10px;
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 12px;
+  width: 120px;
+  color: #000000;
+  text-align: center;
+  border: 2px  #cccccc;
+  border-radius: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  margin: 5px;
+  
+  }
+
+  #background5 {
+    background-image: url(../../assets/bg5.webp);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+
+  #background6 {
+    background-image: url(../../assets/bg6.png);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+
+  #div-2 {
+    display: table;
+    margin: 0 auto;
+    
+}
+
+.card-body{
+  padding: 5%;
+  padding-bottom: 0%;
+  border: #cccccc;
+  border-radius: 10px;
+ 
+  text-align: center;
+  
+
+}
+.containertools {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  padding: 10%;
+  align-items: center;
+  
+  
+}
+.card2 {
+  align-items: center;
+  background-color: #000000;
+  padding: 15px;
+  height: 200px;
+  width: 200px;
+  background-color: #000000;
+  align-items: center;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+.card-22 {
+ height: 200px;
+ padding-bottom: 10px;
+  border-radius: 50%;
+}
+
+
+#background8 {
+  background-image: url(../../assets/bg8.webp);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+
+
+#backgroundgif {
+  background-image: url(../../assets/dino.gif);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+
+#backgroundgif2 {
+  background-image: url(../../assets/avengers.gif);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+
+#backgroundjarvis {
+  background-image: url(../../assets/bgjar.webp);
+  height: 700px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size:cover;
+  text-align: center;
+
+  
+}
+
+audio::-webkit-media-controls-panel {
+  background-color: #ffffff;
+  color: #fff;
+  border-radius: 5px;
+  
+}
+
+#player {
+  width: 400px;
+}
+
+#backgroundjarvis1 {
+  background-image: url(../../assets/jarvisgif.avif);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+
+.center-img {
+  align-items: left;
+  padding-left: 50%;
+}
+
+.typewriter {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: rgb(255, 0, 0); }
+}
+
+
+#backgroundultron {
+  background-image: url(../../assets/ultron1.jpg);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+ 
+}
+buttonultron{
+    
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 12px;
+  width: 150px;
+  color: #000000;
+  text-align: center;
+  border: 2px  #cccccc;
+  border-radius: 10px;
+  font-size: 13px;
+  cursor: pointer;
+  margin: 5px;
+  
+}
+buttonultron:hover {
+  background-color: rgb(255, 0, 0);
+}
+
+
+.containeryt{
+  background-image: url(../../assets/ultron2.webp);
+  color: aliceblue;
+  
+  padding: 10%;
+  font-size: smaller;
+}
+
+
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 0px;
+  /* size of chrome */
+  height: 0;
+  overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+.livechatbg {
+  background-color: #373737;
+}
+
+.d-flex {
+  padding: 10%;
+}
+
+
+/* Chat containers */
+.containerlivechat {
+  
+  background-color: #1a1a1a;
+  border-radius: 50px;
+  padding: 10px;
+  margin: 10px 0;
+  color: rgb(255, 255, 255);
+}
+
+/* Darker chat container */
+.containerdarkerlc {
+  
+  background-color: #1a1a1a;
+  border-radius: 50px;
+  padding: 25px;
+  margin: 15px 0;
+  color: #ffffff;
+}
+
+/* Clear floats */
+.containerlivechat::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Style images */
+.containerlivechat img {
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Style the right image */
+.containerdarkerlc img.right {
+  float: right;
+  max-width: 60px;
+  width: 100%;
+  margin-left: 20px;
+  margin-right:0;
+  border-radius: 50%;
+}
+
+/* Style time text */
+.time-right {
+  float: right;
+  color: #ffffff;
+
+}
+
+/* Style time text */
+.time-left {
+  float: left;
+  color: #ffffff;
+}
+
+.containerlc{
+  background-image: url(../../assets/livechatas.jpg);
+  text-align: center;
+  padding: 10%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  
+}
+
+
+
+.mainfund{
+ 
+  height: 300px;
+  width: 100%;
+  background-image: url(../../assets/blurbg.jpg);
+  background-size: 100% 100%;
+}
+.mainfund2{
+ 
+  height: 300px;
+  width: 100%;
+  background-image: url(../../assets/blurbg.png);
+  background-size: 100% 100%;
+}
+
+.row-1, {
+  width: 100%;
+  height: 300px;
+}
+.div1{
+  
+  width: 48%;
+  height: 270px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.div12 {
+  
+  width: 48%;
+  height: 270px;
+  float: right;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  
+}
+
+.div2{
+  
+  width: 48%;
+  height: 270px;
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+  border-radius: 15px;
+}
+.div1{
+  background-image: url(../../assets/friday.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  ps
+}
+
+.text1{
+  padding:100px 0;
+  text-align:center ;
+  color: white;
+  font-size: xx-large;
+
+  
+   
+   
+    text-align: center;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 1s ease-in-out infinite alternate;
+}
+  
+  @-webkit-keyframes glow {
+    from {
+      text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #5100e6, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px rgb(0, 0, 230), 0 0 70px #e60073;
+    }
+    to {
+      text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #6e4dff, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+    }
+  }
+
+
+
+  #backgroundcont {
+    background-image: url(../../assets/social.jpg);
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+
+  div.gallery {
+    border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 24.99999%;
+  }
+  
+  @media only screen and (max-width: 700px) {
+    .responsive {
+      width: 49.99999%;
+      margin: 6px 0;
+    }
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .responsive {
+      width: 100%;
+    }
+  }
+  
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  buttonnews{
+    align-items: center;
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 12px;
+    width: 120px;
+    color: #000000;
+    text-align: center;
+    border: 2px  #cccccc;
+    border-radius: 10px;
+    font-size: 13px;
+    cursor: pointer;
+    margin: 5px;
+    
+  }
+  buttonnews:hover {
+    background-color: rgb(203, 203, 203);
+  }
+  
+ 
+  
+
+  .containernewsletter {
+    padding: 30px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+  }
+  
+
+  input[type=text], input[type=submit] {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+  }
+  
+
+  input[type=checkbox] {
+    margin-top: 16px;
+  }
+  
+ 
+  input[type=submit] {
+    background-color: #000000;
+    color: white;
+    border: none;
+    margin-top: -9px ;
+    padding: -98px;
+  }
+  
+  input[type=submit]:hover {
+    opacity: 0.8;
+  }

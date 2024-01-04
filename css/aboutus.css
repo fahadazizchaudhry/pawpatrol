@@ -1,0 +1,76 @@
+@media screen and (min-width:992px){
+    .nav-item {
+    line-height:50px;
+    }
+  }
+
+  
+.mx-2:hover {
+    color: yellow;
+   
+}
+
+.mx-2  {
+    border-radius: 5px;
+    border: 1px;
+}
+
+.dropdown-menu{
+ margin-top: -20px;
+ background-color: rgb(33, 33, 33);
+ color: white;
+
+}
+
+                  
+.dropdown-item{
+    color: white;
+    display: inline;
+ 
+}
+
+.dropdown-item:hover{
+    color:yellow;
+    background-color: rgb(33, 33, 33);
+}
+
+.signupbutton:hover{
+    color: yellow;
+    background-color: rgb(241, 235, 235);
+
+}
+    .para{
+
+        background-image: url(../images/paw-hero_x1000.webp);background-repeat: no-repeat;width: 100%; background-position-x: right; background-size: 60%;
+   background-color: rgb(40, 101, 180);
+    }
+
+
+.writing{
+    text-align: left;
+    background-color:rgb(41, 79, 202);
+    display: inline;
+    background-image: url(images/paw-hero_x1000.webp);
+    
+}
+@font-face {
+    font-family: 'FunkyFont';
+    src: url('fonts/FunkyFont.woff2') format('woff2'),
+         url('fonts/FunkyFont.woff') format('woff');
+ }
+ .ho:hover{
+    background-color: rgb(221, 201, 21);
+    color: black;
+    border-color: black;
+}
+.ho{
+    background-color: black; color: rgb(221, 201, 21); border-color: black;
+}
+.hoe{
+    background-color:red; color:white; border-color: black;
+}
+.hoe:hover{
+    background-color: white;
+    color: red;
+    border-color: black;
+}
